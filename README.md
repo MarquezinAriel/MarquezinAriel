@@ -12,6 +12,3 @@
 | Power Platform | ![Power_Apps](https://img.shields.io/badge/App_Dev-Power_Apps-purple?logo=onlyoffice) ![Power_BI](https://img.shields.io/badge/BI-Power_BI-fd9407?logo=onlyoffice) |
 | ERP | ![Globus](https://img.shields.io/badge/Praxio-Globus-red) ![SAP_ERP](https://img.shields.io/badge/SAP-ECC-00b4fc?logo=sap) |
 | IA | ![claude_ai](https://img.shields.io/badge/Claude-AI-C15F3C?logo=claude) ![claude_code](https://img.shields.io/badge/Claude-Code-C15F3C?logo=claudecode) |
-
-> https://shields.io/badges/static-badge
-> https://simpleicons.org/
