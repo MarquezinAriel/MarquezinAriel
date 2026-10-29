@@ -12,7 +12,7 @@
 | Power Platform | ![Power_Apps](https://img.shields.io/badge/App_Dev-Power_Apps-purple?logo=onlyoffice) ![Power_BI](https://img.shields.io/badge/BI-Power_BI/DAX-fd9407?logo=onlyoffice) ![Power_Automate](https://img.shields.io/badge/Automate-Power_Automate-0066FF?logo=onlyoffice) |
 | Automation | ![UiPath](https://img.shields.io/badge/UiPath-Platform-FA4616?logo=uipath&logoColor=white) |
 | ERP | ![Globus](https://img.shields.io/badge/Praxio-Globus-red) ![SAP_ERP](https://img.shields.io/badge/SAP-ECC-00b4fc?logo=sap) |
-| Cloud & Identidade | ![Azure_AD](https://img.shields.io/badge/Azure-AD_%2F_MSAL-0078D4?logo=microsoftazure&logoColor=white) |
+| Cloud & Identity | ![Azure_AD](https://img.shields.io/badge/Azure-AD_%2F_MSAL-0078D4?logo=microsoftazure&logoColor=white) |
 | Integrations | ![MS_Graph](https://img.shields.io/badge/Microsoft-Graph_API-0078D4?logo=microsoft&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-Files-0078D4?logo=microsoftsharepoint&logoColor=white) |
 | Documentation | ![MkDocs](https://img.shields.io/badge/MkDocs-Material-526CFE?logo=materialformkdocs&logoColor=white) |
 | IA |  ![claude_ai](https://img.shields.io/badge/Claude-AI-C15F3C?logo=claude) ![claude_code](https://img.shields.io/badge/Claude-Code-C15F3C?logo=claudecode) ![claude_cowork](https://img.shields.io/badge/Claude-Cowork-C15F3C?logo=claude) |
